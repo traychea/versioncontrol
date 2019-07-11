@@ -4,5 +4,4 @@ python:
   - "3.7"
 cache: pip
 install: pip install mypy
-script: python test-incs.py mypy incs.py
-
+script: python test-incs.py && mypy incs.py
