@@ -32,11 +32,11 @@ class KnownIncs(unittest.TestCase):
         self.assertEqual(inc5(1000), 1005)
 
     def test_inc6(self):
-        self.assertEqual(inc6(0), 6)
+        self.assertEqual(inc6(0), '6')
         self.assertEqual(inc6(1000), "1006")
 
     def test_inc7(self):
-        self.assertEqual(inc7(0), 7)
+        self.assertEqual(inc7(0), '7')
         self.assertEqual(inc7(1000), "1007")
 
 

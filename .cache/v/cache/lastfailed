@@ -1,10 +1,1 @@
-{
-  "test-incs.py::KnownIncs::test_inc2": true,
-  "test-incs.py::KnownIncs::test_inc3": true,
-  "test-incs.py::KnownIncs::test_inc4": true,
-  "test-incs.py::KnownIncs::test_inc5": true,
-  "test-incs.py::KnownIncs::test_inc6": true,
-  "test-incs.py::KnownIncs::test_inc7": true,
-  "test-incs.py::KnownIncs::test_isone": true,
-  "test-incs.py::KnownIncs::test_iszero": true
-}
+{}
