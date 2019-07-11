@@ -4,4 +4,4 @@ _tutorial in basic **git**_
 
 For Community College of Philadelphia Hackathon team, July 2019
 
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/quinn-dougherty/git-workshop)
+[![Build Status](https://travis-ci.org/quinn-dougherty/git-workshop.svg?branch=SOLVED)](https://travis-ci.org/quinn-dougherty/git-workshop)
