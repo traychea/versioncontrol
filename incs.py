@@ -35,6 +35,8 @@ def inc5(x: int) -> int:
     # TODO
     return None
 
+
+
 def inc6(x: int) -> str: 
     ''' TODO takes an int, adds 6 to it, and casts it to string''' 
     # TODO
@@ -44,6 +46,10 @@ def inc7(x: int) -> str:
     ''' TODO takes an int, adds 7 to it, and casts it to string ''' 
     # TODO
     return None
+
+def inc100(x: int) -> str: 
+    return str(x + 100)
+
 
 if __name__=='__main__': 
     print(str(inc1(inc5(0))), inc6(0))
