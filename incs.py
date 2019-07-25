@@ -17,7 +17,7 @@ def inc1(x: int) -> int:
 def inc2(x: int) -> int: 
     ''' TODO takes an int and adds 2 to it ''' 
     # TODO
-    return None
+    return x + 2
 
 
 def inc3(x: int) -> int: 
